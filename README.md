@@ -16,8 +16,7 @@ Here are some ideas to get you started:
 -->
 <h1 align="center">Hi 👋, I'm NIRBHAI SINGH</h1>
 <h3 align="center">A DevOps Trainer from India</h3>
-<img align="right" alt="coding" width="400" src="![image](https://github.com/1995lovely/1995lovely/assets/120583283/f1c75b59-19d8-4a73-8341-a67b6d218c93)
-">
+<img align="right" alt="coding" width="400" src="https://giphy.com/gifs/DigitalHarbor-kgUkCLMu3xhw1T6txv">
 - 🔭 I’m currently working on **GRRRAS institute**
 
 - 🌱 I’m currently learning **All**
