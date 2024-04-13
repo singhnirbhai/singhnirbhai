@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 <h1 align="center">Hi 👋, I'm NIRBHAI SINGH</h1>
 <h3 align="center">A DevOps Trainer from India</h3>
-
+<img align="right" alt="coding" width="400" src="https://iconscout.com/lottie-animation/devops-10119608">
 - 🔭 I’m currently working on **GRRRAS institute**
 
 - 🌱 I’m currently learning **All**
