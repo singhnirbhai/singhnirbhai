@@ -95,38 +95,17 @@
 
 ---
 
+## Devops tools
 
 
-## 🔧 DevOps Specializations
+<div align="center"> <table> <tr> <td align="center" width="25%"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redhat/redhat-original.svg" width="60" height="60"/> <br><strong>Red Hat OpenShift</strong> <br>Container Platform Expert </td> <td align="center" width="25%"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="60" height="60"/> <br><strong>Kubernetes</strong> <br>Container Orchestration </td> <td align="center" width="25%"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="60" height="60"/> <br><strong>Docker</strong> <br>Containerization Platform </td> <td align="center" width="25%"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/podman/podman-original.svg" width="60" height="60"/> <br><strong>Podman</strong> <br>Container Runtime </td> </tr> <tr> <td align="center" width="25%"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" width="60" height="60"/> <br><strong>Terraform</strong> <br>Infrastructure as Code </td> <td align="center" width="25%"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original.svg" width="60" height="60"/> <br><strong>Ansible</strong> <br>Configuration Management </td> <td align="center" width="25%"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="60" height="60"/> <br><strong>AWS Cloud</strong> <br>Cloud Platform </td> <td align="center" width="25%"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="60" height="60"/> <br><strong>Linux</strong> <br>Operating System </td> </tr> <tr> <td align="center" width="25%"> <img src="https://raw.githubusercontent.com/cncf/artwork/master/projects/prometheus/icon/color/prometheus-icon-color.svg" width="60" height="60"/> <br><strong>Prometheus</strong> <br>Monitoring & Alerting </td> <td align="center" width="25%"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" width="60" height="60"/> <br><strong>Grafana</strong> <br>Data Visualization </td> <td align="center" width="25%"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="60" height="60"/> <br><strong>Helm</strong> <br>Package Management </td> <td align="center" width="25%"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" width="60" height="60"/> <br><strong>Jenkins</strong> <br>CI/CD Pipeline </td> </tr> <tr> <td align="center" width="25%"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="60" height="60"/> <br><strong>GitHub</strong> <br>Version Control & GitOps </td> <td align="center" width="25%"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="60" height="60"/> <br><strong>Python</strong> <br>Automation & Scripting </td> <td align="center" width="25%"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="60" height="60"/> <br><strong>Node.js</strong> <br>Runtime & Development </td> <td align="center" width="25%"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="60" height="60"/> <br><strong>GitOps</strong> <br>Workflow Automation </td> </tr> </table> </div>
 
-<div align="center">
 
-<table>
-<tr>
-<td align="center" width="25%">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redhat/redhat-original.svg" width="60" height="60"/>
-<br><strong>Red Hat OpenShift</strong>
-<br>Container Platform Expert
-</td>
-<td align="center" width="25%">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="60" height="60"/>
-<br><strong>Helm Charts</strong>
-<br>Package Management Pro
-</td>
-<td align="center" width="25%">
-<img src="https://raw.githubusercontent.com/cncf/artwork/master/projects/prometheus/icon/color/prometheus-icon-color.svg" width="60" height="60"/>
-<br><strong>MCP Management</strong>
-<br>Multi-Cloud Orchestration
-</td>
-<td align="center" width="25%">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" width="60" height="60"/>
-<br><strong>GitOps</strong>
-<br>Automation & Workflow
-</td>
-</tr>
-</table>
 
-</div>
+
+
+
+
 
 ---
 
