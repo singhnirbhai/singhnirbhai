@@ -95,18 +95,7 @@
 
 ---
 
-## 🌟 Recent Achievements & Stats
 
-<div align="center">
-
-![OpenShift](https://img.shields.io/badge/OpenShift%20Clusters%20Managed-15+-EE0000?style=for-the-badge&logo=redhatopenshift&logoColor=white)
-![Helm Charts](https://img.shields.io/badge/Helm%20Charts%20Published-50+-0F1689?style=for-the-badge&logo=helm&logoColor=white)
-![MCP Nodes](https://img.shields.io/badge/MCP%20Nodes%20Orchestrated-100+-4A90E2?style=for-the-badge&logo=icloud&logoColor=white)
-![Uptime](https://img.shields.io/badge/System%20Uptime-99.9%25-00FF00?style=for-the-badge&logo=statuspage&logoColor=white)
-
-</div>
-
----
 
 ## 🔧 DevOps Specializations
 
