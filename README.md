@@ -19,7 +19,7 @@
 
 ---
 
-## 🚀 About Me
 
-<img align="right" alt="DevOps GIF" width="400" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif"/>
+
+<img align="center" alt="DevOps GIF" width="400" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif"/>
 
