@@ -17,9 +17,8 @@
   <img src="https://img.shields.io/github/followers/yourusername?label=Followers&style=social" alt="GitHub followers" />
 </div>
 
----
 
 
 
-<img align="center" alt="DevOps GIF" width="400" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif"/>
+
 
