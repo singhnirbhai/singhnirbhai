@@ -14,7 +14,7 @@
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=Nirbhaisingh&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
-  <img src="https://img.shields.io/github/followers/yourusername?label=Followers&style=social" alt="GitHub followers" />
+  <img src="https://img.shields.io/github/followers/Nirbhaisingh?label=Followers&style=social" alt="GitHub followers" />
 </div>
 
 
