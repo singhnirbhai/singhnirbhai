@@ -1,5 +1,6 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Nirbhai+singh" alt="Typing SVG" /></a>
+  <img src="https://readme-typing-svg.herokuapp.com/?
+   [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Hey+My+Name+Is+Nirbhai+Singh)](https://git.io/typing-svg)
 </div>
 
 <div align="center">
